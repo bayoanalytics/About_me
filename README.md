@@ -1,20 +1,8 @@
 ### Hi, my name is Bayo Oyetoro
-I am a data analyst from Nigeria
-- 🔭 I’m currently working on measuring the impacts of financial accessibility on student's performances in Nigeria
-- 🌱 I’m currently learning how to use Query languages and Python
-- 👯 When I am not working on data, I am playing FIFA
+
+I am a business intelligence and data analyst from Nigeria. 
+
+My goal is to help uncover insights, spot trends and patterns to help businesses make data-driven and informed business decisions.
+I'm skilled in using Microsoft Excel, Power BI, SQL, Tableau and R Language.
+
 - 📫 How to reach me: nlab956@gmail.com
-- 😄 Pronouns: His / Him / He
-
-<!--
-**Germanium86/Germanium86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on measuring the impacts of financial accessibility on student's performances in Nigeria
-- 🌱 I’m currently learning how to use SQL to better analyse
-- 👯 When I am not working on data, I am playing FIFA
-- 📫 How to reach me: nlab956@gmail.com
-- 😄 Pronouns: His / Him / He
-- ⚡ Messi is the GOAT. Barca Fan
--->
