@@ -17,8 +17,9 @@ I mostly work with **Python and SQL**, sometimes I work with **C#, Azure, MongoD
 ![Python](https://img.shields.io/badge/python-232F3E?logo=python)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F3E?logo=microsoft-azure)
 
-<h3 align="left">:hugs:<br><a href="https://github.com/bayooyetoro"><img src="https://awesome.re/badge.svg"/></a> <br>Featured Projects</h3>
+<h3 align="left">:hugs:<br><a href="https://github.com/bayooyetoro"><img src="https://Featured Projects.re/badge.svg"/></a></h3>
 <br><br>
+
 | :hash: | Project | Description | Repo Link |
 |:--------:|---------|-------------|-----------|
 | :one: | [Bank's Marketing Data Infrastructure Design](https://github.com/bayooyetoro/Data_Engineering-Bank-Database-with-Pandas)| <br> Used **Python and SQL** to design loan marketing database for a UK Bank<br><br> | [@Bank_MarketingDatabase_Design](https://github.com/bayooyetoro/Data_Engineering-Bank-Database-with-Pandas) |
